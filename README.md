@@ -13,3 +13,6 @@ USE CASE DIAGRAM!
 ENTITY RELATIONSHIP DIAGRAM
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/94348590/216707376-7de6b831-19b7-4e77-a915-67fda4e4e635.png">
 
+
+https://user-images.githubusercontent.com/94348590/216718605-ba9a3a49-6ed7-45ae-be92-3cbf62909f6a.mp4
+
